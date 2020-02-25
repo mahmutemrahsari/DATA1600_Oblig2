@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DATA1600_Oblig2.iml" filepath="$PROJECT_DIR$/DATA1600_Oblig2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oblig2/Oblig2.iml" filepath="$PROJECT_DIR$/Oblig2/Oblig2.iml" />
     </modules>
   </component>
 </project>
