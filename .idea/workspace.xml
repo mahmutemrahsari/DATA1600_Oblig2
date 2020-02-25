@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4375afc-266f-440a-bd05-a499351c7b05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1c995004-6f54-4e44-a5e6-a779b14d3376" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1YJZ2VyE2iPG1ZteA4c67yjAW7c" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4375afc-266f-440a-bd05-a499351c7b05" name="Default Changelist" comment="" />
+      <created>1582662450145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582662450145</updated>
+      <workItem from="1582662454144" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582662510761">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state x="334" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582662510761" />
+    <state x="607" y="285" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582662491278">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state x="607" y="285" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582662491278" />
+    <state x="462" y="97" key="CommitChangelistDialog2" timestamp="1582662568758">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state x="462" y="97" key="CommitChangelistDialog2/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582662568758" />
+  </component>
+</project>
