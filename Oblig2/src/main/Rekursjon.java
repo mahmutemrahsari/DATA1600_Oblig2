@@ -8,6 +8,10 @@ public class Rekursjon {
 
     }
 
+    //1 Rekursjon
+    //1.1
+    //Konverter følgende metode til en løsning med rekursjon:
+
     static int sum(int x) {
         int sum = 0;
         for(int i = x; i > 0; i--) {
@@ -15,7 +19,7 @@ public class Rekursjon {
         }
         return sum;
     }
-
+    //1.1 Løsning
     static int sumRec(int x) {
         if(x <= 1) {
             return 1;

@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582662450145</updated>
-      <workItem from="1582662454144" duration="3590000" />
+      <workItem from="1582662454144" duration="3861000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit from Intellj">
       <created>1582662569086</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582663138044</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Rekursjon part solved! Fuction converted to it's Recurtive version :)">
+      <created>1582685593618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582685593618</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +115,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit from Intellj" />
     <MESSAGE value="Rekursjon class added!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rekursjon class added!" />
+    <MESSAGE value="Rekursjon part solved! Fuction converted to it's Recurtive version :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rekursjon part solved! Fuction converted to it's Recurtive version :)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="484" y="196" key="#Unnamed" timestamp="1582664509232">
@@ -123,10 +131,10 @@
       <screen x="0" y="23" width="1680" height="991" />
     </state>
     <state x="607" y="285" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582664493175" />
-    <state x="462" y="97" key="CommitChangelistDialog2" timestamp="1582663137768">
+    <state x="462" y="97" key="CommitChangelistDialog2" timestamp="1582685593333">
       <screen x="0" y="23" width="1680" height="991" />
     </state>
-    <state x="462" y="97" key="CommitChangelistDialog2/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582663137768" />
+    <state x="462" y="97" key="CommitChangelistDialog2/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582685593333" />
     <state width="609" height="271" key="GridCell.Tab.0.bottom" timestamp="1582685466443">
       <screen x="0" y="23" width="1680" height="991" />
     </state>
@@ -159,24 +167,13 @@
       <screen x="0" y="23" width="1680" height="991" />
     </state>
     <state width="609" height="271" key="GridCell.Tab.1.right/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582685466726" />
-    <state x="470" y="234" key="Vcs.Push.Dialog.v2" timestamp="1582663158959">
+    <state x="470" y="234" key="Vcs.Push.Dialog.v2" timestamp="1582685606417">
       <screen x="0" y="23" width="1680" height="991" />
     </state>
-    <state x="470" y="234" key="Vcs.Push.Dialog.v2/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582663158959" />
+    <state x="470" y="234" key="Vcs.Push.Dialog.v2/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582685606417" />
     <state x="230" y="140" key="new project wizard" timestamp="1582662853508">
       <screen x="0" y="23" width="1680" height="991" />
     </state>
     <state x="230" y="140" key="new project wizard/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582662853508" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Oblig2/src/main/Rekursjon.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
