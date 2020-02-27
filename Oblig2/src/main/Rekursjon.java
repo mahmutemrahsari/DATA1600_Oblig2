@@ -80,6 +80,9 @@ public class Rekursjon {
 
     //Rekursiv løsning
     static void tabellBaklengsRec(int a[], int start, int end){
+        //Sjekk hvis start eller end er mindre enn 0!
+        if(start<0||end<0)
+            return;
         //Base
         if(start >= end)
         return;

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4375afc-266f-440a-bd05-a499351c7b05" name="Default Changelist" comment="Oppgave 1.1 og 1.2 1.3 er ferdig!">
+    <list default="true" id="b4375afc-266f-440a-bd05-a499351c7b05" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Oblig2/src/main/Rekursjon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Oblig2/src/main/Rekursjon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Oblig2/main/Rekursjon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Oblig2/main/Rekursjon.class" afterDir="false" />
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582662450145</updated>
-      <workItem from="1582662454144" duration="12216000" />
+      <workItem from="1582662454144" duration="12488000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit from Intellj">
       <created>1582662569086</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582762746518</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Oppgave 1.1, 1.2 og 1.3 er ferdig!">
+      <created>1582769513639</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582769513639</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +140,8 @@
     <MESSAGE value="Rekursjon part solved! Fuction converted to it's Recurtive version :)" />
     <MESSAGE value="Oppgave 1.1 og 1.2 er ferdig!" />
     <MESSAGE value="Oppgave 1.1 og 1.2 1.3 er ferdig!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oppgave 1.1 og 1.2 1.3 er ferdig!" />
+    <MESSAGE value="Oppgave 1.1, 1.2 og 1.3 er ferdig!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oppgave 1.1, 1.2 og 1.3 er ferdig!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="484" y="196" key="#Unnamed" timestamp="1582664509232">
@@ -148,30 +156,30 @@
       <screen x="0" y="23" width="1680" height="991" />
     </state>
     <state x="607" y="285" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582664493175" />
-    <state x="396" y="74" key="CommitChangelistDialog2" timestamp="1582769448356">
+    <state x="396" y="74" key="CommitChangelistDialog2" timestamp="1582769513185">
       <screen x="0" y="23" width="1440" height="841" />
     </state>
-    <state x="396" y="74" key="CommitChangelistDialog2/0.23.1440.841@0.23.1440.841" timestamp="1582769448356" />
+    <state x="396" y="74" key="CommitChangelistDialog2/0.23.1440.841@0.23.1440.841" timestamp="1582769513185" />
     <state x="462" y="97" key="CommitChangelistDialog2/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582685752087" />
-    <state width="710" height="127" key="GridCell.Tab.0.bottom" timestamp="1582769423007">
+    <state width="710" height="127" key="GridCell.Tab.0.bottom" timestamp="1582769674063">
       <screen x="0" y="23" width="1440" height="841" />
     </state>
-    <state width="710" height="127" key="GridCell.Tab.0.bottom/0.23.1440.841@0.23.1440.841" timestamp="1582769423007" />
+    <state width="710" height="127" key="GridCell.Tab.0.bottom/0.23.1440.841@0.23.1440.841" timestamp="1582769674063" />
     <state width="609" height="271" key="GridCell.Tab.0.bottom/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582685767883" />
-    <state width="710" height="127" key="GridCell.Tab.0.center" timestamp="1582769423006">
+    <state width="710" height="127" key="GridCell.Tab.0.center" timestamp="1582769674062">
       <screen x="0" y="23" width="1440" height="841" />
     </state>
-    <state width="710" height="127" key="GridCell.Tab.0.center/0.23.1440.841@0.23.1440.841" timestamp="1582769423006" />
+    <state width="710" height="127" key="GridCell.Tab.0.center/0.23.1440.841@0.23.1440.841" timestamp="1582769674062" />
     <state width="609" height="271" key="GridCell.Tab.0.center/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582685767881" />
-    <state width="710" height="127" key="GridCell.Tab.0.left" timestamp="1582769423005">
+    <state width="710" height="127" key="GridCell.Tab.0.left" timestamp="1582769674061">
       <screen x="0" y="23" width="1440" height="841" />
     </state>
-    <state width="710" height="127" key="GridCell.Tab.0.left/0.23.1440.841@0.23.1440.841" timestamp="1582769423005" />
+    <state width="710" height="127" key="GridCell.Tab.0.left/0.23.1440.841@0.23.1440.841" timestamp="1582769674061" />
     <state width="609" height="271" key="GridCell.Tab.0.left/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582685767879" />
-    <state width="710" height="127" key="GridCell.Tab.0.right" timestamp="1582769423007">
+    <state width="710" height="127" key="GridCell.Tab.0.right" timestamp="1582769674062">
       <screen x="0" y="23" width="1440" height="841" />
     </state>
-    <state width="710" height="127" key="GridCell.Tab.0.right/0.23.1440.841@0.23.1440.841" timestamp="1582769423007" />
+    <state width="710" height="127" key="GridCell.Tab.0.right/0.23.1440.841@0.23.1440.841" timestamp="1582769674062" />
     <state width="609" height="271" key="GridCell.Tab.0.right/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582685767882" />
     <state width="609" height="271" key="GridCell.Tab.1.bottom" timestamp="1582740680914">
       <screen x="0" y="23" width="1440" height="841" />
@@ -193,10 +201,10 @@
     </state>
     <state width="609" height="271" key="GridCell.Tab.1.right/0.23.1440.841@0.23.1440.841" timestamp="1582740680913" />
     <state width="609" height="271" key="GridCell.Tab.1.right/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582685466726" />
-    <state x="403" y="202" key="Vcs.Push.Dialog.v2" timestamp="1582765196835">
+    <state x="403" y="202" key="Vcs.Push.Dialog.v2" timestamp="1582769519058">
       <screen x="0" y="23" width="1440" height="841" />
     </state>
-    <state x="403" y="202" key="Vcs.Push.Dialog.v2/0.23.1440.841@0.23.1440.841" timestamp="1582765196835" />
+    <state x="403" y="202" key="Vcs.Push.Dialog.v2/0.23.1440.841@0.23.1440.841" timestamp="1582769519058" />
     <state x="470" y="234" key="Vcs.Push.Dialog.v2/1680.230.1280.777/0.23.1680.991@0.23.1680.991" timestamp="1582686032551" />
     <state x="230" y="140" key="new project wizard" timestamp="1582662853508">
       <screen x="0" y="23" width="1680" height="991" />
