@@ -4,6 +4,7 @@ public class Rekursjon {
 
     //Test
     public static void main(String[] args) {
+
         //1.1
         System.out.println("Normal sum: " + sum(5));
         System.out.println("Recursive sum: " + sumRec(5));
@@ -22,6 +23,13 @@ public class Rekursjon {
         for(int i = 0; i<a.length;i++){
             System.out.print(a[i]+ " ");
         }
+
+        //1.4
+        System.out.println("\nRecursiv Minste Verdi: "+minsteVerdi(a,a.length));
+
+        //1.5
+        int x[] = {4,5,6,7,8};
+        System.out.println(contains(x,6,x.length-1));
 
     }
 
@@ -102,8 +110,28 @@ public class Rekursjon {
     //
     //1.4
     //Implementer en metode som finner den minste verdien i en heltallstabell. Bruk rekursjon.
+    static int minsteVerdi(int a[], int n){
+        //Sjekk hvis start eller end er mindre enn 0!
+        if(n == 1)
+            return a[0];
+        return Math.min(a[n-1], minsteVerdi(a, n-1));
+    }
+
     //
     //1.5
     //Implementer en metode som søker etter et gitt heltall i en heltallstabell. Bruk rekursjon.
     //Returner posisjonen til verdien i tabellen eller -1 hvis verdien ikke er i tabellen.
+
+    private static int contains( int[] array, int val, int indeks )
+    {
+        //Base
+        if ( ( indeks == -1 ) || ( array[ indeks ] == val ) )
+        {
+            return indeks;
+        }
+
+        //Rekursjon
+        return contains( array, val, indeks - 1 );
+    }
+
 }
